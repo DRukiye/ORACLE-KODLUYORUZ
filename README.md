@@ -6,3 +6,6 @@ Kütüphane ve Sinema Veri Tabanı
 
 
 Kütüphane veri tabanı 4 tablodan oluşur. ID Kolanları primary key olarak belirlenmiştir. Members ID, Book ID,Address ID sütunlarda Foreign Key olarak belirlenmiştir.
+
+
+![data modeller](https://user-images.githubusercontent.com/71218414/101192522-3c3e0f00-366c-11eb-8744-470654faec6d.PNG)
