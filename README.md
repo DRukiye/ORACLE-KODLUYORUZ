@@ -14,3 +14,4 @@ Kütüphane veri tabanı 4 tablodan oluşur. ID Kolanları primary key olarak be
 SİNEMA VERİ TABANI
 
 
+![SINEMA VERI TABANI](https://user-images.githubusercontent.com/71218414/101192807-a8b90e00-366c-11eb-95cb-342645e0d996.PNG)
